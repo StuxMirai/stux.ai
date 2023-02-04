@@ -73,7 +73,7 @@ languageName = "English"
         [params.home.profile]
             enable = true
             # URL of avatar shown in home page
-            avatarURL = "/images/stux-avatar.png"
+            avatarURL = "/images/stux-avatar.png" # todo find where this goes
             title = "Stux"
             # subtitle shown in home page (HTML format is supported)
             subtitle = "Hi I'm a cringe vtuber and a hacker"
