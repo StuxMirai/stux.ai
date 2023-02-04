@@ -1,10 +1,12 @@
-baseURL = "http://example.org/"
+# todo: add logo config
+
+baseURL = "http://stux.ai/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
-# website title
-title = "Stux's Carrd'nt"
+# website title (shows in the tab)
+title = "Stux's Cardn't"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en-us"
@@ -53,3 +55,51 @@ languageName = "English"
     [markup.highlight]
         # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
         noClasses = false
+
+
+[params]
+    defaultTheme = "dark"
+    dateFormat = "2006-01-02"
+    title = "Stux's Carrdn't"
+    description = "Hi I'm a cringe vtuber and a hacker"
+
+    # Header config
+    [params.header]
+        mobileMode = "auto"
+
+    # Home page config
+    [params.home]
+        # Home page profile
+        [params.home.profile]
+            enable = true
+            # URL of avatar shown in home page
+            avatarURL = "/images/stux-avatar.png"
+            title = "Stux"
+            # subtitle shown in home page (HTML format is supported)
+            subtitle = "Hi I'm a cringe vtuber and a hacker"
+            # whether to use typeit animation for subtitle
+            typeit = true
+            # whether to show social links
+            social = true
+            # LoveIt NEW | 0.2.0 disclaimer (HTML format is supported)
+            disclaimer = ""
+            # Home page posts
+
+        [params.social]
+            GitHub = "https://github.com/StuxVT"
+            Linkedin = ""
+            Twitter = "xxxx"
+
+        [params.home.posts]
+            enable = true
+            # special amount of posts in each home posts page
+            paginate = 6
+            # LoveIt DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page
+            # default behavior when you don't set "hiddenFromHomePage" in front matter
+            defaultHiddenFromHomePage = false
+
+    # Footer config
+    [params.footer]
+        enable = false
+        hugo = false
+
