@@ -67,13 +67,22 @@ languageName = "English"
     [params.header]
         mobileMode = "auto"
 
+        [params.header.title]
+            # URL of the LOGO
+            logo = "" # todo
+            # title name
+            name = "Stux's Carrdn't"
+            typeit = false
+
+
     # Home page config
     [params.home]
         # Home page profile
         [params.home.profile]
             enable = true
             # URL of avatar shown in home page
-            avatarURL = "/images/stux-avatar.png" # todo find where this goes
+            # todo: store locally, find where it goes
+            avatarURL = "https://pbs.twimg.com/profile_images/1600994955991867394/Gm43oVNd_400x400.jpg"
             title = "Stux"
             # subtitle shown in home page (HTML format is supported)
             subtitle = "Hi I'm a cringe vtuber and a hacker"
@@ -86,9 +95,9 @@ languageName = "English"
             # Home page posts
 
         [params.social]
+            Twitter = "https://twitter.com/StuxVT"
+            Twitch = "https://twitch.tv/StuxVT"
             GitHub = "https://github.com/StuxVT"
-            Linkedin = ""
-            Twitter = "xxxx"
 
         [params.home.posts]
             enable = true
