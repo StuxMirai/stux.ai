@@ -95,9 +95,9 @@ languageName = "English"
             # Home page posts
 
         [params.social]
-            Twitter = "https://twitter.com/StuxVT"
-            Twitch = "https://twitch.tv/StuxVT"
-            GitHub = "https://github.com/StuxVT"
+            Twitter = "StuxVT"
+            Twitch = "StuxVT"
+            GitHub = "StuxVT"
 
         [params.home.posts]
             enable = true
