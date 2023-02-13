@@ -98,6 +98,8 @@ languageName = "English"
             Twitter = "StuxVT"
             Twitch = "StuxVT"
             GitHub = "StuxVT"
+            Keybase = "stuxvt"
+            Discord = "eDK26TbWPy"
 
         [params.home.posts]
             enable = true
