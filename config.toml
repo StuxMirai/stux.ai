@@ -99,7 +99,7 @@ languageName = "English"
             Twitch = "StuxVT"
             GitHub = "StuxVT"
             Keybase = "stuxvt"
-            Discord = "eDK26TbWPy"
+            DiscordInvite = "eDK26TbWPy"
 
         [params.home.posts]
             enable = true
