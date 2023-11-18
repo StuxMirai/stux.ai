@@ -61,7 +61,7 @@ languageName = "English"
     defaultTheme = "dark"
     dateFormat = "2006-01-02"
     title = "Stux's Carrdn't"
-    description = "Hi I'm a cringe vtuber and a hacker"
+    description = "Hi I'm a Stux! I'm a software engineer, hacker, and vtuber. Sometimes I code on streams elsewise I play lots of games where I can go 'pewpew'"
 
     # Header config
     [params.header]
