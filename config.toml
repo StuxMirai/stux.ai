@@ -82,7 +82,7 @@ languageName = "English"
             enable = true
             # URL of avatar shown in home page
             # todo: store locally, find where it goes
-            avatarURL = "https://cdn.discordapp.com/attachments/1037631694548762665/1159341538921418793/cryy.png"
+            avatarURL = "/cryy.png"
             title = "Stux"
             # subtitle shown in home page (HTML format is supported)
             subtitle = "Hi I'm a cringe vtuber and a hacker"
