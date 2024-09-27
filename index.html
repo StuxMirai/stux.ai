@@ -26,7 +26,12 @@
 
         // Function to set a random background image
         function setRandomBackground() {
-            const randomIndex = Math.floor(Math.random() * backgrounds.length);
+            let randomIndex;
+            if (Math.random() < 0.05) {
+                randomIndex = 0; // 5% chance to get the first index (0)
+            } else {
+                randomIndex = Math.floor(Math.random() * (backgrounds.length - 1)) + 1; // Ensure the first index is not selected
+            }
             const selectedBackground = backgrounds[randomIndex];
             document.getElementById('background').style.backgroundImage = `url('/static/backgrounds/${selectedBackground}')`;
         }
