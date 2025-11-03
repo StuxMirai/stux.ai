@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/stuxie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://stux.ai
+  * I am stuxie (https://keybase.io/stuxie) on keybase.
+  * I have a public key ASCDTBGW0XzNrCCYezNRH8LNhiLohYBA0z5z7Dhr8xT8Qgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120834c1196d17ccdac20987b33511fc2cd8622e8858040d33e73ec386bf314fc420a",
+      "host": "keybase.io",
+      "kid": "0120834c1196d17ccdac20987b33511fc2cd8622e8858040d33e73ec386bf314fc420a",
+      "uid": "4278d0ce9508df59cbf68d349547fa19",
+      "username": "stuxie"
+    },
+    "merkle_root": {
+      "ctime": 1762184362,
+      "hash": "41a916f6a336f79d597bb5be5cf66ef80f49e1d5d1828684ba6d40265679ab785c27740582f25d6aa1e8f7585cccb561fa213c7bcdf1c853c44b6b23104add7c",
+      "hash_meta": "231ce8bf89f10578de00a926cb10de3f78537fbd1ee9a164d32d0ab0a7cabe30",
+      "seqno": 27209804
+    },
+    "service": {
+      "entropy": "NMdqJ0mallWi9HS39szEM8wI",
+      "hostname": "stux.ai",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.5.1"
+  },
+  "ctime": 1762184394,
+  "expire_in": 504576000,
+  "prev": "6c6288c6f295d51a0d06d8d2295eb747d1941237ec93c3c0d3bb33087b855044",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgg0wRltF8zawgmHszUR/CzYYi6IWAQNM+c+w4a/MU/EIKp3BheWxvYWTESpcCBsQgbGKIxvKV1RoNBtjSKV63R9GUEjfsk8PA07szCHuFUETEIB1TnXmbCSRM2NPmKYuzXLnI5gFUCJBW+UO/SKj1GiWOAgHCo3NpZ8RASuoMJmBnQCOR4uO/k29V570mNiJZXYtzdFMjufJOD9JOyvfeeB1ylJKqQ7JgwSYKWWxzNwr8cR0hzQAFZte6DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGzQbnA8L+wOgZCANhvR0TVdD6loQ5TXfLvlmLKcRDeHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stuxie
+
+==================================================================
